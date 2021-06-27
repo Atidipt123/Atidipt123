@@ -11,3 +11,6 @@ An application which shows your call of duty mobile or pubg mobile username as a
 
 ### [atidipt123.github.io](https://atidipt123.github.io/)
 Check it out :)
+
+### [YourWay Presence](https://atidipt123.github.io/yourway-presence)  
+Custom Rich Presence For discord!
