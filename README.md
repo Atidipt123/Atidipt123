@@ -1,11 +1,7 @@
-### Hello 👋
+# Hello there
 
-I am Atidipt. I like to make discord bots. 
-#### My Bots 🤖
-[Neko Chan](https://atidipt123.github.io/neko-chan)   
-[Bread Bot](https://github.com/Atidipt123/bread-bot)  
+I am Atidipt.
 
-### Other Projects 📰  
-
-### [atidipt123.github.io](https://atidipt123.github.io/)
-Check it out :)
+## Currently Working on these projects
+> [sra_py](https://pypi.org/project/sra_py) - A python api wrapper for [some-random-api.ml](https://some-random-api.ml)  
+> Bread Bot - A discord bot. \[Coming Soon\]
